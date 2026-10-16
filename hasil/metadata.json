@@ -1,0 +1,14 @@
+{
+    "nama_file": "foto_objek.jpg",
+    "format": "JPEG",
+    "mode_asli": "RGB",
+    "lebar_pixel": 960,
+    "tinggi_pixel": 1280,
+    "jumlah_pixel": 1228800,
+    "mode_analisis": "RGB",
+    "jumlah_kanal": 3,
+    "jumlah_nilai_kanal": 3686400,
+    "rentang_nilai_rgb": "0 sampai 255",
+    "ukuran_file_byte": 40087,
+    "metadata_exif": {}
+}
